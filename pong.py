@@ -5,7 +5,7 @@ pygame.init()
 screen = pygame.display.set_mode((2000,1500))
 pygame.display.set_caption("Pong")
 
-#Variables
+#Variablesws
 doExit = False
 p1x = 100
 p1y = 1000
